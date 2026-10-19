@@ -9,7 +9,9 @@ redirect_from:
 
 <img src="/images/image3.jpeg" alt="Red fluorescent neuron" style="float: right; width: 150px; height: 150px; object-fit: cover; margin: 0.3em 0 1em 1.5em; border-radius: 8px;">
 
-Dr. Destynie Medeiros studies how distinct experiences are encoded, recalled, updated, and integrated across time, and how trauma reshapes these processes. In Dr. Denise Cai’s lab, a leader in Miniscope development and calcium imaging, she combines simultaneous in vivo Miniscope calcium imaging and electrophysiology to examine how ensembles of hippocampal neurons coordinate to bind experiences and guide future behavior, including social interactions.
+Dr. Destynie Medeiros is a neuroscientist who studies memory: how we form it, how we hold on to it, and how difficult experiences can change it. Her work connects social behavior, trauma, and the neural circuits that link experiences across time.
+
+In Dr. Denise Cai’s lab at the Icahn School of Medicine, a leader in Miniscope development and calcium imaging, Destynie is conducting her postdoctoral research which combines in vivo Miniscope calcium imaging and electrophysiology to examine how ensembles of neurons coordinate to bind experiences and guide future behavior, including social interactions.
 
 <img src="/images/image1.jpg" alt="Destynie Medeiros presenting a research poster" style="float: right; clear: right; width: 150px; height: 150px; object-fit: cover; margin: 0.3em 0 1em 1.5em; border-radius: 8px;">
 
