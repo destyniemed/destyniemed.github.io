@@ -45,3 +45,37 @@
     font-size: 1em;
   }
 }
+
+.about-photo,
+.about-photo-left {
+  border-radius: 8px;
+}
+
+.about-photo {
+  float: right;
+  width: 140px;
+  margin: 0.3em 0 1em 1.5em;
+}
+
+.about-photo-left {
+  float: left;
+  width: 170px;
+  margin: 0.3em 1.5em 1em 0;
+}
+
+.about-logo {
+  display: block;
+  clear: both;
+  width: 120px;
+  margin: 2em auto 0;
+}
+
+@media (max-width: 600px) {
+  .about-photo,
+  .about-photo-left {
+    float: none;
+    width: 60%;
+    margin: 0 auto 1em;
+    display: block;
+  }
+}
