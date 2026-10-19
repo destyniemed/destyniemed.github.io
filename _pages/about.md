@@ -15,6 +15,6 @@ Medeiros studies how distinct experiences are encoded, recalled, updated, and in
 
 Medeiros received her Ph.D. in Neurobiology from the University of Alabama at Birmingham, where she trained with Dr. Lucas Pozzo-Miller. Her doctoral research examined social memory, the ability to recognize, remember, and respond to individuals, in a mouse model of Rett syndrome, identifying molecular, synaptic, and population-level abnormalities that alter coordinated neural activity during behavior. This work motivated her to understand how the brain represents social experiences and how disruptions in these processes lead to behavioral deficits. She received her B.A. in Biology from the University of Hartford, where she completed her honors thesis research with Dr. Paola Sacchetti.
 
-Beyond research, Medeiros is active in teaching, service, and inclusion initiatives. She founded and chairs the New York Memory Hub’s Junior Executive Committee.
-
 <img src="/images/image2.png" alt="New York Memory Hub logo" style="display: block; clear: both; width: 120px; margin: 2em auto 0;">
+
+Beyond research, Medeiros is active in teaching, service, and inclusion initiatives. She founded and chairs the New York Memory Hub’s Junior Executive Committee.
