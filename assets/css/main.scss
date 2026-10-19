@@ -36,3 +36,12 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+@media (min-width: 64em) {
+  .author__avatar img {
+    max-width: 100%;
+  }
+  .author__bio {
+    font-size: 1em;
+  }
+}
