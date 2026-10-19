@@ -39,10 +39,14 @@
 
 @media (min-width: 64em) {
   .author__avatar img {
-    max-width: 200px;
+    max-width: 90%;
   }
   .author__bio {
     font-size: 0.9em;
+  }
+  .sidebar {
+    position: relative;
+    height: auto;
   }
 }
 
